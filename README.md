@@ -6,6 +6,10 @@ The check is done using [k-Anonymity](https://www.troyhunt.com/ive-just-launched
 
 #### Usage (command-line):
 ```
+$ ./hibp-checker.sh
+```
+or
+```
 $ mvn install
 $ java -jar target/hibp-checker-1.0.jar
 ```
